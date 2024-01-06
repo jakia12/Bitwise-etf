@@ -4022,7 +4022,7 @@ img.road_img {
     /* background-image: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.8)),
       url(/assets/img/bg1.avif); */
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url(/assets/img/bg2.avif);
+      url(/assets/img/bg.jpg);
     background-attachment: fixed;
     background-position: center;
   }
